@@ -60,7 +60,6 @@ In order to achieve all of these results, it is necessary to send the **_Authori
   * Export as XLS ```127.0.0.1:8000/export/xls/```
   
 [Raseedi]: http://www.raseedi.co/
-### This project is a task from [Raseedi] team.
 
 
 <a name="auth"></a>
